@@ -18,7 +18,7 @@ Detection of modification of the registry key values of `Notify`, `Userinit`, an
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
 |[Boot or Logon Autostart Execution](https://attack.mitre.org/techniques/T1547/)|[Winlogon Helper DLL](https://attack.mitre.org/techniques/T1547/004/)|[Persistence](https://attack.mitre.org/tactics/TA0003/), [Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)|Medium|
-|[Modify Registry](https://attack.mitre.org/techniques/T1112/)|N/A|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Medium|
+|[Modify Registry](https://attack.mitre.org/techniques/T1112/)|N/A|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Medium|
 
 
 ### D3FEND Techniques

@@ -17,7 +17,7 @@ Bypassing user account control (UAC Bypass) is generally done by piggybacking on
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Abuse Elevation Control Mechanism](https://attack.mitre.org/techniques/T1548/)|[Bypass User Account Control](https://attack.mitre.org/techniques/T1548/002/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Abuse Elevation Control Mechanism](https://attack.mitre.org/techniques/T1548/)|[Bypass User Account Control](https://attack.mitre.org/techniques/T1548/002/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

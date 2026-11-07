@@ -17,7 +17,7 @@ Trusted developer utilities such as MSBuild may be leveraged to run malicious co
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Trusted Developer Utilities Proxy Execution](https://attack.mitre.org/techniques/T1127/)|[MSBuild](https://attack.mitre.org/techniques/T1127/001/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|High|
+|[Trusted Developer Utilities Proxy Execution](https://attack.mitre.org/techniques/T1127/)|[MSBuild](https://attack.mitre.org/techniques/T1127/001/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|High|
 
 
 ### D3FEND Techniques

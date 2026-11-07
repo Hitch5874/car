@@ -17,7 +17,7 @@ In an attempt to avoid detection after compromising a machine, threat actors oft
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Medium|
+|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Medium|
 
 
 ### D3FEND Techniques

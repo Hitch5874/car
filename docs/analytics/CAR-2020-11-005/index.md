@@ -17,7 +17,7 @@ Adversaries may attempt to conceal their tracks by deleting the history of comma
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Indicator Removal](https://attack.mitre.org/techniques/T1070/)|[Clear Command History](https://attack.mitre.org/techniques/T1070/003/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Indicator Removal](https://attack.mitre.org/techniques/T1070/)|[Clear Command History](https://attack.mitre.org/techniques/T1070/003/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

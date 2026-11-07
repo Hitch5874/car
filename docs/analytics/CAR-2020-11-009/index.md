@@ -17,7 +17,7 @@ Adversaries may hide malicious code in .chm compiled HTML files. When these file
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[Compiled HTML File](https://attack.mitre.org/techniques/T1218/001/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|High|
+|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[Compiled HTML File](https://attack.mitre.org/techniques/T1218/001/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|High|
 
 
 ### D3FEND Techniques

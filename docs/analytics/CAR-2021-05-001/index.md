@@ -16,7 +16,7 @@ Adversaries may add their own root certificate to the certificate store, to caus
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Subvert Trust Controls](https://attack.mitre.org/techniques/T1553/)|[Install Root Certificate](https://attack.mitre.org/techniques/T1553/004/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Moderate|
+|[Subvert Trust Controls](https://attack.mitre.org/techniques/T1553/)|[Install Root Certificate](https://attack.mitre.org/techniques/T1553/004/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Moderate|
 
 
 ### D3FEND Techniques

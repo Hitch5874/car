@@ -55,7 +55,7 @@ The host on which the commands were executed, the time of execution, and what co
 |[Process Discovery](https://attack.mitre.org/techniques/T1057/)|N/A|[Discovery](https://attack.mitre.org/tactics/TA0007/)|Low|
 |[Remote Services](https://attack.mitre.org/techniques/T1021/)|[SMB/Windows Admin Shares](https://attack.mitre.org/techniques/T1021/002/)|[Lateral Movement](https://attack.mitre.org/tactics/TA0008/)|Low|
 |[Create or Modify System Process](https://attack.mitre.org/techniques/T1543/)|[Windows Service](https://attack.mitre.org/techniques/T1543/003/)|[Persistence](https://attack.mitre.org/tactics/TA0003/), [Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)|Low|
-|[Modify Registry](https://attack.mitre.org/techniques/T1112/)|N/A|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Modify Registry](https://attack.mitre.org/techniques/T1112/)|N/A|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 |[Hijack Execution Flow](https://attack.mitre.org/techniques/T1574/)|[Services Registry Permissions Weakness](https://attack.mitre.org/techniques/T1574/011/)|[Persistence](https://attack.mitre.org/tactics/TA0003/), [Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)|Low|
 |[Remote System Discovery](https://attack.mitre.org/techniques/T1018/)|N/A|[Discovery](https://attack.mitre.org/tactics/TA0007/)|Low|
 |[System Services](https://attack.mitre.org/techniques/T1569/)|[Service Execution](https://attack.mitre.org/techniques/T1569/002/)|[Execution](https://attack.mitre.org/tactics/TA0002/)|Low|
@@ -69,7 +69,7 @@ The host on which the commands were executed, the time of execution, and what co
 |[Application Window Discovery](https://attack.mitre.org/techniques/T1010/)|N/A|[Discovery](https://attack.mitre.org/tactics/TA0007/)|Low|
 |[Software Discovery](https://attack.mitre.org/techniques/T1518/)|[Security Software Discovery](https://attack.mitre.org/techniques/T1518/001/)|[Discovery](https://attack.mitre.org/tactics/TA0007/)|Low|
 |[Network Service Discovery](https://attack.mitre.org/techniques/T1046/)|N/A|[Discovery](https://attack.mitre.org/tactics/TA0007/)|Low|
-|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/), [Indicator Blocking](https://attack.mitre.org/techniques/T1562/006/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/), [Indicator Blocking](https://attack.mitre.org/techniques/T1562/006/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 |[Account Manipulation](https://attack.mitre.org/techniques/T1098/)|N/A|[Credential Access](https://attack.mitre.org/tactics/TA0006/)|Low|
 |[Command and Scripting Interpreter](https://attack.mitre.org/techniques/T1059/)|[Visual Basic](https://attack.mitre.org/techniques/T1059/005/)|[Execution](https://attack.mitre.org/tactics/TA0002/)|Moderate|
 |[Query Registry](https://attack.mitre.org/techniques/T1012/)|N/A|[Discovery](https://attack.mitre.org/tactics/TA0007/)|Low|

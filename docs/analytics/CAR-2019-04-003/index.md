@@ -22,7 +22,7 @@ As usual, credit to Roberto Rodriguez and the [ThreatHunter Playbook](https://gi
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[Regsvr32](https://attack.mitre.org/techniques/T1218/010/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Moderate|
+|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[Regsvr32](https://attack.mitre.org/techniques/T1218/010/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Moderate|
 
 
 ### D3FEND Techniques

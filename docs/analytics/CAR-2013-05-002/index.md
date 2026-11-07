@@ -23,7 +23,7 @@ Monitors the directories
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Masquerading](https://attack.mitre.org/techniques/T1036/)|N/A|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Masquerading](https://attack.mitre.org/techniques/T1036/)|N/A|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

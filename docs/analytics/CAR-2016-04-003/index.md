@@ -19,7 +19,7 @@ Stopping services events are Windows Event Code 7036.
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

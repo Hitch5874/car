@@ -17,7 +17,7 @@ Cyber actors frequently escalate to the SYSTEM account after gaining entry to a 
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Abuse Elevation Control Mechanism](https://attack.mitre.org/techniques/T1548/)|N/A|[Privilege Escalation](https://attack.mitre.org/tactics/TA0004/), [Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Moderate|
+|[Abuse Elevation Control Mechanism](https://attack.mitre.org/techniques/T1548/)|N/A|[Privilege Escalation](https://attack.mitre.org/tactics/TA0004/), [Stealth](https://attack.mitre.org/tactics/TA0005/)|Moderate|
 
 
 ### D3FEND Techniques

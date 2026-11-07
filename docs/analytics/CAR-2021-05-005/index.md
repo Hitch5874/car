@@ -16,7 +16,7 @@ The following query identifies Microsoft Background Intelligent Transfer Service
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[BITS Jobs](https://attack.mitre.org/techniques/T1197/)|N/A|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/), [Persistence](https://attack.mitre.org/tactics/TA0003/)|Moderate|
+|[BITS Jobs](https://attack.mitre.org/techniques/T1197/)|N/A|[Stealth](https://attack.mitre.org/tactics/TA0005/), [Persistence](https://attack.mitre.org/tactics/TA0003/)|Moderate|
 |[Ingress Tool Transfer](https://attack.mitre.org/techniques/T1105/)|N/A|[Command and Control](https://attack.mitre.org/tactics/TA0011/)|Moderate|
 
 

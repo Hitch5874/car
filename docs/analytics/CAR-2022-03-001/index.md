@@ -25,7 +25,7 @@ https://ptylu.github.io/content/report/report.html?report=25
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable Windows Event Logging](https://attack.mitre.org/techniques/T1562/002/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Moderate|
+|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Disable Windows Event Logging](https://attack.mitre.org/techniques/T1562/002/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Moderate|
 
 
 ### D3FEND Techniques

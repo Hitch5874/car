@@ -17,7 +17,7 @@ Adversaries may use network shares to exfliltrate date; they will then remove th
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Indicator Removal](https://attack.mitre.org/techniques/T1070/)|[Network Share Connection Removal](https://attack.mitre.org/techniques/T1070/005/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|High|
+|[Indicator Removal](https://attack.mitre.org/techniques/T1070/)|[Network Share Connection Removal](https://attack.mitre.org/techniques/T1070/005/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|High|
 
 
 ### D3FEND Techniques

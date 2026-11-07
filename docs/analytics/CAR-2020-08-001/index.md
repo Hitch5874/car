@@ -20,7 +20,7 @@ The [LOLBAS project](https://lolbas-project.github.io/) is an amazing resource f
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Hide Artifacts](https://attack.mitre.org/techniques/T1564/)|[NTFS File Attributes](https://attack.mitre.org/techniques/T1564/004/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Hide Artifacts](https://attack.mitre.org/techniques/T1564/)|[NTFS File Attributes](https://attack.mitre.org/techniques/T1564/004/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

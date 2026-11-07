@@ -16,7 +16,7 @@ Adversaries may find it necessary to use [Dyanamic-link Libraries](https://msdn.
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[Rundll32](https://attack.mitre.org/techniques/T1218/011/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Moderate|
+|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[Rundll32](https://attack.mitre.org/techniques/T1218/011/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Moderate|
 
 
 ### D3FEND Techniques

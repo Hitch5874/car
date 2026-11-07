@@ -17,7 +17,7 @@ Adversaries may start legitimate processes and then use their memory space to ru
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Process Injection](https://attack.mitre.org/techniques/T1055/)|[Process Hollowing](https://attack.mitre.org/techniques/T1055/012/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Process Injection](https://attack.mitre.org/techniques/T1055/)|[Process Hollowing](https://attack.mitre.org/techniques/T1055/012/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

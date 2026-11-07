@@ -16,7 +16,7 @@ CertUtil.exe may be used to `encode` and `decode` a file, including PE and scrip
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Deobfuscate/Decode Files or Information](https://attack.mitre.org/techniques/T1140/)|N/A|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Moderate|
+|[Deobfuscate/Decode Files or Information](https://attack.mitre.org/techniques/T1140/)|N/A|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Moderate|
 
 
 ### D3FEND Techniques

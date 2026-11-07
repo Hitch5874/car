@@ -17,7 +17,7 @@ Adversaries may attempt to evade system defenses by unloading minifilter drivers
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Indicator Blocking](https://attack.mitre.org/techniques/T1562/006/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|Low|
+|[Impair Defenses](https://attack.mitre.org/techniques/T1562/)|[Indicator Blocking](https://attack.mitre.org/techniques/T1562/006/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|Low|
 
 
 ### D3FEND Techniques

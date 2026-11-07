@@ -17,7 +17,7 @@ When CMSTP.exe is seen in combination with an external connection, it is a good 
 
 |Technique|Subtechnique(s)|Tactic(s)|Level of Coverage|
 |---|---|---|---|
-|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[CMSTP](https://attack.mitre.org/techniques/T1218/003/)|[Defense Evasion](https://attack.mitre.org/tactics/TA0005/)|High|
+|[System Binary Proxy Execution](https://attack.mitre.org/techniques/T1218/)|[CMSTP](https://attack.mitre.org/techniques/T1218/003/)|[Stealth](https://attack.mitre.org/tactics/TA0005/)|High|
 
 
 ### D3FEND Techniques

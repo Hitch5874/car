@@ -14,6 +14,18 @@ osquery exposes an operating system as a high-performance relational database. T
 
 ## Data Model Coverage
 
+### [file](../data_model/file)
+
+| | `company` | `content` | `creation_time` | `extension` | `file_name` | `file_path` | `fqdn` | `gid` | `group` | `hostname` | `image_path` | `link_target` | `md5_hash` | `mime_type` | `mode` | `owner` | `owner_uid` | `pid` | `ppid` | `previous_creation_time` | `sha1_hash` | `sha256_hash` | `signature_valid` | `signer` | `uid` | `user` |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| `acl_modify` |  | | | | | | | | | | | | | | | | | | | | | | | | | |
+| `create` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
+| `delete` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
+| `modify` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
+| `read` |  | | | | | | | | | | | | | | | | | | | | | | | | | |
+| `timestomp` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
+| `write` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
+
 ### [flow](../data_model/flow)
 
 | | `application_protocol` | `content` | `dest_fqdn` | `dest_hostname` | `dest_ip` | `dest_port` | `end_time` | `exe` | `fqdn` | `hostname` | `image_path` | `in_bytes` | `network_direction` | `out_bytes` | `packet_count` | `pid` | `ppid` | `proto_info` | `src_fqdn` | `src_hostname` | `src_ip` | `src_port` | `start_time` | `tcp_flags` | `transport_protocol` | `uid` | `user` |
@@ -29,18 +41,6 @@ osquery exposes an operating system as a high-performance relational database. T
 | `access` |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | `create` |  | |✓|✓| |✓| | | |✓| |✓| | | | |✓|✓|✓|✓| | | | | | | | |✓|
 | `terminate` |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-
-### [file](../data_model/file)
-
-| | `company` | `content` | `creation_time` | `extension` | `file_name` | `file_path` | `fqdn` | `gid` | `group` | `hostname` | `image_path` | `link_target` | `md5_hash` | `mime_type` | `mode` | `owner` | `owner_uid` | `pid` | `ppid` | `previous_creation_time` | `sha1_hash` | `sha256_hash` | `signature_valid` | `signer` | `uid` | `user` |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| `acl_modify` |  | | | | | | | | | | | | | | | | | | | | | | | | | |
-| `create` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
-| `delete` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
-| `modify` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
-| `read` |  | | | | | | | | | | | | | | | | | | | | | | | | | |
-| `timestomp` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
-| `write` |  | |✓| |✓|✓| | | | |✓| |✓| | | | |✓|✓| |✓|✓| | | |✓|
 
 ### [driver](../data_model/driver)
 
